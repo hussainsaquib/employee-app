@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Saquib Hussain\\Desktop\\RahbRetrieve\\RahbRetrieve\\RahbRetrieve.csproj": {}
+    "C:\\Users\\Saquib Hussain\\Documents\\GitHub\\employee-app\\RahbRetrieve\\RahbRetrieve\\RahbRetrieve.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Saquib Hussain\\Desktop\\RahbRetrieve\\RahbRetrieve\\RahbRetrieve.csproj": {
+    "C:\\Users\\Saquib Hussain\\Documents\\GitHub\\employee-app\\RahbRetrieve\\RahbRetrieve\\RahbRetrieve.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Saquib Hussain\\Desktop\\RahbRetrieve\\RahbRetrieve\\RahbRetrieve.csproj",
+        "projectUniqueName": "C:\\Users\\Saquib Hussain\\Documents\\GitHub\\employee-app\\RahbRetrieve\\RahbRetrieve\\RahbRetrieve.csproj",
         "projectName": "RahbRetrieve",
-        "projectPath": "C:\\Users\\Saquib Hussain\\Desktop\\RahbRetrieve\\RahbRetrieve\\RahbRetrieve.csproj",
+        "projectPath": "C:\\Users\\Saquib Hussain\\Documents\\GitHub\\employee-app\\RahbRetrieve\\RahbRetrieve\\RahbRetrieve.csproj",
         "packagesPath": "C:\\Users\\Saquib Hussain\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Saquib Hussain\\Desktop\\RahbRetrieve\\RahbRetrieve\\obj\\",
+        "outputPath": "C:\\Users\\Saquib Hussain\\Documents\\GitHub\\employee-app\\RahbRetrieve\\RahbRetrieve\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
